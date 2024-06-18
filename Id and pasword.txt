@@ -1,0 +1,9 @@
+For Admin
+
+admin@mail.com
+Admin@1234
+
+For User
+
+adi@mail.com
+Adi@1234
